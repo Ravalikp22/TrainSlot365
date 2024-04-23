@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7865509e.css",
+    "main.js": "/static/js/main.d72be9dc.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/book appoinment.png": "/static/media/book appoinment.0c6149b93b7e733a6f14.png",
+    "static/media/icon.jpg": "/static/media/icon.01998653c3f58814f609.jpg",
+    "index.html": "/index.html",
+    "main.7865509e.css.map": "/static/css/main.7865509e.css.map",
+    "main.d72be9dc.js.map": "/static/js/main.d72be9dc.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7865509e.css",
+    "static/js/main.d72be9dc.js"
+  ]
+}
